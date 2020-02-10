@@ -41,3 +41,7 @@
 - name: "WikiToLearn"
   repos:
     - "https://github.com/WikiToLearn/WikiToLearn"
+    
+ - name: "Comune Open Web"
+  repos:
+    - "https://github.com/klanit/comune-open-web"
