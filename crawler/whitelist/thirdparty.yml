@@ -92,3 +92,7 @@
 - name: "WooCommerce Carta Docente"
   repos:
     - "https://github.com/ilGhera/wc-carta-docente"
+
+- name: "QField"
+  repos:
+    - "https://github.com/opengisch/QField"
